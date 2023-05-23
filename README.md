@@ -13,7 +13,7 @@ Project 1: lprnet_pytorch - Chinese City Parking Dataset
     - Remember to update all the folder or file paths
     - Use chatgpt to understand how individual functions work
 
-Project 2: EasyOCR, PaddleOCR_V3, PaddleOCR_RFL, Pytesseract
+Project 2: EasyOCR, PaddleOCR_V3, PaddleOCR_RFL, Pytesseract - Any dataset
 
     1. Run detect.py in yolov7 folder
         Above script will conduct object detection from a source folder or file, video or image, draw bounding boxes and store output files in a destination folder.
